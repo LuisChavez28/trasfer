@@ -1,0 +1,12 @@
+{
+	"basica":{
+		"10":{
+			"nombre" : "jorge",
+			"Token" : {
+				"0" : "token 1 del cel",
+				"1" : "token 2 de la compu",
+				"2" : "Token 3 de otra compu"
+			}
+		}	
+	}
+}

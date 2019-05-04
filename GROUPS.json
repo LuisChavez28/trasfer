@@ -1,0 +1,15 @@
+{
+	"Grupos":{
+		"basica":{
+			"desarrollador": {
+				"user_id": "id_10",
+				"user_id": "id_11",
+				"user_id": "id_12",
+				"user_id": "id_13"
+			},
+			"Hacker" :{
+				"user_id": "id_10",
+			}
+		}	
+	}
+}
